@@ -40,7 +40,7 @@ $lang_gal_dimensions = "Dimensioner";
 $lang_gal_size = "Storlek";
 $lang_gal_img = "IMG";
 $lang_gal_link = "Länk";
-$lang_gallery_tool_tip = "To create a lightbox gallery, create a folder of images and use the embed tag.";
+$lang_gallery_tool_tip = "För att skapa ett lightbox gallery, skapa en katalog med bilder och använd sedan den inkluderade taggen.";
 
 // Pages
 
@@ -61,8 +61,8 @@ $lang_del_button = "Radera";
 // Errors
 
 $lang_error_create_ext = 'Ogiltlig fil ändelse.';
-$lang_error_file_exists = 'A file with this name in this folder already exists.';
-$lang_error_upload = 'You need to be in a Gallery to upload an image.';
+$lang_error_file_exists = 'En fil med samma namn existerar i denna katalog.';
+$lang_error_upload = 'Du måstare vara inne i ett Galleri för kunna ladda upp bild.';
 $lang_no_content = 'inget innehåll hittas';
 
 //Blog
@@ -70,8 +70,8 @@ $lang_no_content = 'inget innehåll hittas';
 $lang_blog_read_more = 'Läs Mer';
 $lang_blog_older = 'Äldre';
 $lang_blog_newer = 'Nyare';
-$lang_blog_error_folder = "You can't create a folder in Blog";
-$lang_blog_tool_tip = "Blog entries are ordered by number, the highest numbering being the newest post.";
+$lang_blog_error_folder = "Du kan inte skapa en katalog i en Blogg";
+$lang_blog_tool_tip = "Blogg inlägg sorteras efter nummer, det högsta numret är det senaste inlägget.";
 
 //Form
 
@@ -79,7 +79,7 @@ $lang_form_error1 = 'Snälla fyll i korrekt ';
 $lang_form_error2a = 'Ditt fält ';
 $lang_form_error2b = ' För lång.';
 $lang_form_subject_line = 'Kontakt';
-$lang_form_email_sent = 'Email är sänt';
+$lang_form_email_sent = 'E-mail är sänt';
 $lang_form_sent_button = 'Sänd';
 
 // Stats
